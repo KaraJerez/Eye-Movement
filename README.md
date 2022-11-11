@@ -1,6 +1,6 @@
 # Eye-Movement
 
-##Description
+## Description
 The Eye Movement project required an understanding of for/let loops and using a grid. The eyes will move insync in the direction that the user toggles the mouse.
 
 ## License
